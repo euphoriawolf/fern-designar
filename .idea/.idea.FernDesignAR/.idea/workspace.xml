@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65fe2f57-5cca-484b-9238-75763eba66af" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/OnBoarding/OnBoarding.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="407">
+              <caret line="63" column="82" selection-start-line="63" selection-start-column="82" selection-end-line="63" selection-end-column="82" />
+              <folding>
+                <marker date="1654784781928" expanded="false" signature="6:78" ph="..." />
+                <marker date="1654784781928" expanded="true" signature="119:1468" ph="{...}" />
+                <marker date="1654784781928" expanded="true" signature="338:384" ph="{...}" />
+                <marker date="1654784781928" expanded="true" signature="442:463" ph="{...}" />
+                <marker date="1654784781928" expanded="true" signature="493:801" ph="{...}" />
+                <marker date="1654784781928" expanded="true" signature="830:1251" ph="{...}" />
+                <marker date="1654784781928" expanded="true" signature="872:939" ph="{...}" />
+                <marker date="1654784781928" expanded="true" signature="1286:1464" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Auth/Auth.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="81" selection-start-line="81" selection-end-line="81" />
+              <folding>
+                <marker date="1654786026944" expanded="false" signature="6:78" ph="..." />
+                <marker date="1654786026944" expanded="true" signature="113:2262" ph="{...}" />
+                <marker date="1654786026944" expanded="true" signature="403:497" ph="{...}" />
+                <marker date="1654786026944" expanded="true" signature="555:576" ph="{...}" />
+                <marker date="1654786026944" expanded="true" signature="608:648" ph="{...}" />
+                <marker date="1654786026944" expanded="true" signature="683:1095" ph="{...}" />
+                <marker date="1654786026944" expanded="true" signature="1130:1619" ph="{...}" />
+                <marker date="1654786026944" expanded="true" signature="1190:1316" ph="/* var position = slider.transform.position; ... */" />
+                <marker date="1654786026944" expanded="true" signature="1655:1783" ph="{...}" />
+                <marker date="1654786026944" expanded="true" signature="1818:2069" ph="{...}" />
+                <marker date="1654786026944" expanded="true" signature="2108:2260" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Homepage/Homepage.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <marker date="1654787337400" expanded="false" signature="6:78" ph="..." />
+                <marker date="1654787337400" expanded="true" signature="117:434" ph="{...}" />
+                <marker date="1654787337400" expanded="true" signature="189:210" ph="{...}" />
+                <marker date="1654787337400" expanded="true" signature="268:289" ph="{...}" />
+                <marker date="1654787337400" expanded="true" signature="326:432" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PreviewProduct/PreviewProduct.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+              <folding>
+                <marker date="1654790789025" expanded="false" signature="6:78" ph="..." />
+                <marker date="1654790789025" expanded="true" signature="123:573" ph="{...}" />
+                <marker date="1654790789025" expanded="true" signature="195:216" ph="{...}" />
+                <marker date="1654790789025" expanded="true" signature="274:295" ph="{...}" />
+                <marker date="1654790789025" expanded="true" signature="325:425" ph="{...}" />
+                <marker date="1654790789025" expanded="true" signature="458:556" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ARView/ARView.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="146">
+              <caret line="52" column="7" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
+              <folding>
+                <marker date="1654886641638" expanded="true" signature="6:319" ph="..." />
+                <marker date="1654886641638" expanded="true" signature="357:3368" ph="{...}" />
+                <marker date="1654886641638" expanded="true" signature="771:859" ph="{...}" />
+                <marker date="1654886641638" expanded="true" signature="948:1051" ph="{...}" />
+                <marker date="1654886641638" expanded="true" signature="1125:1161" ph="{...}" />
+                <marker date="1654886641638" expanded="true" signature="1191:1329" ph="{...}" />
+                <marker date="1654886641638" expanded="true" signature="1362:1515" ph="{...}" />
+                <marker date="1654886641638" expanded="true" signature="1421:1476" ph="{...}" />
+                <marker date="1654886641638" expanded="true" signature="1574:1973" ph="{...}" />
+                <marker date="1654886641638" expanded="true" signature="1610:1650" ph="{...}" />
+                <marker date="1654886641638" expanded="true" signature="1702:1742" ph="{...}" />
+                <marker date="1654886641638" expanded="true" signature="1843:1967" ph="{...}" />
+                <marker date="1654886641638" expanded="true" signature="1880:1943" ph="{...}" />
+                <marker date="1654886641638" expanded="true" signature="2016:3044" ph="{...}" />
+                <marker date="1654886641638" expanded="true" signature="2106:2146" ph="{...}" />
+                <marker date="1654886641638" expanded="true" signature="3087:3193" ph="{...}" />
+                <marker date="1654886641638" expanded="true" signature="3226:3366" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/ARDK/Extensions/ARFeaturePointRenderer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+              <folding>
+                <marker date="1652835861000" expanded="false" signature="60:228" ph="..." />
+                <marker date="1652835861000" expanded="true" signature="263:2820" ph="{...}" />
+                <marker date="1652835861000" expanded="true" signature="321:605" ph="/// A sample class that can be added to a scene to visual feature points found in each frame. ... " />
+                <marker date="1652835861000" expanded="true" signature="663:2818" ph="{...}" />
+                <marker date="1652835861000" expanded="true" signature="921:1075" ph="{...}" />
+                <marker date="1652835861000" expanded="true" signature="1105:1320" ph="{...}" />
+                <marker date="1652835861000" expanded="true" signature="1353:1472" ph="{...}" />
+                <marker date="1652835861000" expanded="true" signature="1544:1836" ph="{...}" />
+                <marker date="1652835861000" expanded="true" signature="1904:1938" ph="{...}" />
+                <marker date="1652835861000" expanded="true" signature="1993:2501" ph="{...}" />
+                <marker date="1652835861000" expanded="true" signature="2216:2340" ph="{...}" />
+                <marker date="1652835861000" expanded="true" signature="2381:2495" ph="{...}" />
+                <marker date="1652835861000" expanded="true" signature="2552:2814" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ARView/ScaleAndDrag/CSharpscaling.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+              <folding>
+                <marker date="1654871684637" expanded="true" signature="6:44" ph="..." />
+                <marker date="1654871684637" expanded="true" signature="88:1385" ph="{...}" />
+                <marker date="1654871684637" expanded="true" signature="230:1383" ph="{...}" />
+                <marker date="1654871684637" expanded="true" signature="317:1377" ph="{...}" />
+                <marker date="1654871684637" expanded="true" signature="541:1367" ph="{...}" />
+                <marker date="1654871684637" expanded="true" signature="694:909" ph="{...}" />
+                <marker date="1654871684637" expanded="true" signature="930:1353" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ARView/ScaleAndDrag/onClickForScaling.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <folding>
+                <marker date="1654871878361" expanded="true" signature="6:44" ph="..." />
+                <marker date="1654871878361" expanded="true" signature="93:182" ph="{...}" />
+                <marker date="1654871878361" expanded="true" signature="118:180" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ARView/ScaleAndDrag/DragObject1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+              <folding>
+                <marker date="1654872002192" expanded="true" signature="6:44" ph="..." />
+                <marker date="1654872002192" expanded="true" signature="87:616" ph="{...}" />
+                <marker date="1654872002192" expanded="true" signature="164:335" ph="{...}" />
+                <marker date="1654872002192" expanded="true" signature="360:614" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ARView/ScaleAndDrag/Rotate.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+              <folding>
+                <marker date="1654872066898" expanded="true" signature="6:44" ph="..." />
+                <marker date="1654872066898" expanded="true" signature="82:202" ph="{...}" />
+                <marker date="1654872066898" expanded="true" signature="144:200" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Auth/Auth.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../EuphoriaWolfProject/ar-live-auction/Assets/Scripts/WelcomeSceneScript/WelcomeScript.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SplashScreen/Splash.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ARView/ARView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ARDK/Configuration/Internal/_IArdkConfigInternal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ARView/ScaleAndDrag/Rotate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SceneTransition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ARView/ScaleAndDrag/CSharpscaling.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ARDK/Networking/HLAPI/Object/Unity/NetworkedUnityObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ARDK/Extensions/ARFeaturePointRenderer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/OnBoarding/OnBoarding.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../EuphoriaWolfProject/ar-live-auction/Assets/Scripts/GetStartedScripts/SliderAnim.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Homepage/Homepage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ARView/ScaleAndDrag/onClickForScaling.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ARDKExamples/Common/Helpers/AR/ARHitTester.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PreviewProduct/PreviewProduct.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../EuphoriaWolfProject/ar-live-auction/Assets/Scripts/GetStartedScripts/RotateDecoration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ARView/ScaleAndDrag/DragObject1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StringManifest.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/StringManifest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SplashScreen/Splash.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/OnBoarding/OnBoarding.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Auth/Auth.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Homepage/Homepage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PreviewProduct/PreviewProduct.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ARView/ScaleAndDrag/CSharpscaling.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ARView/ScaleAndDrag/onClickForScaling.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ARView/ScaleAndDrag/DragObject1.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ARView/ScaleAndDrag/Rotate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ARView/ARView.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="675" />
+    <option name="y" value="-8" />
+    <option name="width" value="699" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65fe2f57-5cca-484b-9238-75763eba66af" name="Default Changelist" comment="" />
+      <created>1654688689987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654688689987</updated>
+      <workItem from="1654688735081" duration="1541000" />
+      <workItem from="1654776388889" duration="14835000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="16376000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="675" y="-8" width="699" height="784" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.49926794" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.49926794" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Splash.cs" />
+    <entry file="file://$PROJECT_DIR$/../EuphoriaWolfProject/ar-live-auction/Assets/Scripts/WelcomeSceneScript/WelcomeScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="80" column="5" selection-start-line="52" selection-start-column="3" selection-end-line="80" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#135#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ARDK/Configuration/Internal/_IArdkConfigInternal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding>
+            <marker date="1652835861000" expanded="true" signature="59:90" ph="..." />
+            <marker date="1652835861000" expanded="true" signature="137:1371" ph="{...}" />
+            <marker date="1652835861000" expanded="true" signature="181:1369" ph="{...}" />
+            <marker date="1652835861000" expanded="true" signature="331:432" ph="/* Guid encoded into a string. ... */" />
+            <marker date="1652835861000" expanded="true" signature="485:561" ph="/* Common metadata getters ... */" />
+            <marker date="1652835861000" expanded="true" signature="602:741" ph="/* Get the platform (OS) of the device. ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ARDK/Networking/HLAPI/Object/Unity/NetworkedUnityObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="194" column="13" selection-start-line="194" selection-start-column="13" selection-end-line="194" selection-end-column="13" />
+          <folding>
+            <marker date="1652835862000" expanded="false" signature="60:442" ph="..." />
+            <marker date="1652835862000" expanded="true" signature="503:11165" ph="{...}" />
+            <marker date="1652835862000" expanded="true" signature="508:895" ph="/// A MonoBehaviour that provides replication details for a prefab/scene object. Handles details ... " />
+            <marker date="1652835862000" expanded="true" signature="1080:11163" ph="{...}" />
+            <marker date="1652835862000" expanded="true" signature="1089:1222" ph="/// An Id that represents the instance of the object, shared between all peers in the session ... " />
+            <marker date="1652835862000" expanded="true" signature="1274:1387" ph="/// An Id that represents the prefab, shared between all builds of the scene ... " />
+            <marker date="1652835862000" expanded="true" signature="1442:1542" ph="/// The peers that have the right to network destroy the object ... " />
+            <marker date="1652835862000" expanded="true" signature="1700:1860" ph="/// If the only peer with destructor rights leaves the session without destroying the object, ... " />
+            <marker date="1652835862000" expanded="true" signature="1931:2045" ph="/// The AuthBehaviour that handles authority for each instance of this object ... " />
+            <marker date="1652835862000" expanded="true" signature="2121:2208" ph="/// The default NetworkedBehaviour for this object ... " />
+            <marker date="1652835862000" expanded="true" signature="2292:2413" ph="/// All NetworkedBehaviours attached to this object, will be populated automatically ... " />
+            <marker date="1652835862000" expanded="true" signature="2487:2602" ph="/// Possible peer(s) that can be given the right to network destroy the object ... " />
+            <marker date="1652835862000" expanded="true" signature="2664:3093" ph="{...}" />
+            <marker date="1652835862000" expanded="true" signature="3237:3446" ph="{...}" />
+            <marker date="1652835862000" expanded="true" signature="3253:3440" ph="{...}" />
+            <marker date="1652835862000" expanded="true" signature="3293:3370" ph="{...}" />
+            <marker date="1652835862000" expanded="true" signature="3452:3545" ph="/// Whether or not the object has already been destroyed ... " />
+            <marker date="1652835862000" expanded="true" signature="3583:3679" ph="/// Whether or not the object was spawned by the local peer ... " />
+            <marker date="1652835862000" expanded="true" signature="3710:3797" ph="{...}" />
+            <marker date="1652835862000" expanded="true" signature="3803:3922" ph="/// The peer that network spawned this object, will be null if not network spawned ... " />
+            <marker date="1652835862000" expanded="true" signature="3981:4073" ph="/// The networking instance that this object is tied to ... " />
+            <marker date="1652835862000" expanded="true" signature="4145:4275" ph="/// An Id that represents the instance of the object, shared between all peers in the session ... " />
+            <marker date="1652835862000" expanded="true" signature="4299:4401" ph="{...}" />
+            <marker date="1652835862000" expanded="true" signature="4407:4520" ph="/// An Id that represents the prefab, shared between all builds of the scene ... " />
+            <marker date="1652835862000" expanded="true" signature="4550:4604" ph="{...}" />
+            <marker date="1652835862000" expanded="true" signature="4610:4693" ph="/// The AuthBehaviour that handles this object ... " />
+            <marker date="1652835862000" expanded="true" signature="4723:4755" ph="{...}" />
+            <marker date="1652835862000" expanded="true" signature="4761:4882" ph="/// The NetworkedBehaviour that determines the behaviour of the NetworkedUnityObject ... " />
+            <marker date="1652835862000" expanded="true" signature="4929:4973" ph="{...}" />
+            <marker date="1652835862000" expanded="true" signature="4979:5112" ph="/// The networking group that corresponds to this object, handled by the UnitySceneNetworkMaster ... " />
+            <marker date="1652835862000" expanded="true" signature="5143:5225" ph="{...}" />
+            <marker date="1652835862000" expanded="true" signature="5231:5350" ph="/// Initializes the NetworkedUnityObject and all NetworkedBehaviours on the object ... " />
+            <marker date="1652835862000" expanded="true" signature="5379:6279" ph="{...}" />
+            <marker date="1652835862000" expanded="true" signature="5672:5910" ph="{...}" />
+            <marker date="1652835862000" expanded="true" signature="5956:6118" ph="{...}" />
+            <marker date="1652835862000" expanded="true" signature="6285:6538" ph="/// Determines if a peer has the right to destroy an object ... " />
+            <marker date="1652835862000" expanded="true" signature="6594:7649" ph="{...}" />
+            <marker date="1652835862000" expanded="true" signature="6607:6718" ph="/* If SpawningPeer is not set, this object was not network spawned, so don't try to network ... */" />
+            <marker date="1652835862000" expanded="true" signature="7655:8002" ph="/// Checks if local destruction of this object is allowed if the sole destructor of the object ... " />
+            <marker date="1652835862000" expanded="true" signature="8061:8450" ph="{...}" />
+            <marker date="1652835862000" expanded="true" signature="8476:9090" ph="{...}" />
+            <marker date="1652835862000" expanded="true" signature="8760:8989" ph="{...}" />
+            <marker date="1652835862000" expanded="true" signature="9175:9502" ph="{...}" />
+            <marker date="1652835862000" expanded="true" signature="9532:10163" ph="{...}" />
+            <marker date="1652835862000" expanded="true" signature="9857:10100" ph="{...}" />
+            <marker date="1652835862000" expanded="true" signature="10200:10799" ph="{...}" />
+            <marker date="1652835862000" expanded="true" signature="10475:10786" ph="{...}" />
+            <marker date="1652835862000" expanded="true" signature="10492:10632" ph="/* Prefab rawID should always be 0. Important to ensure in case user hits &quot;Apply All&quot; ... */" />
+            <marker date="1652835862000" expanded="true" signature="10837:10881" ph="{...}" />
+            <marker date="1652835862000" expanded="true" signature="10891:10981" ph="/// Generates a randomized Long to be used for an Id. ... " />
+            <marker date="1652835862000" expanded="true" signature="11020:11159" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/StringManifest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="49" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+          <folding>
+            <marker date="1654778281153" expanded="false" signature="6:78" ph="..." />
+            <marker date="1654778281153" expanded="true" signature="107:448" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EuphoriaWolfProject/ar-live-auction/Assets/Scripts/GetStartedScripts/RotateDecoration.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#78#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SceneTransition.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <marker date="1652353910550" expanded="false" signature="6:149" ph="..." />
+            <marker date="1652353910550" expanded="true" signature="195:2665" ph="{...}" />
+            <marker date="1652353910550" expanded="true" signature="315:877" ph="{...}" />
+            <marker date="1652353910550" expanded="true" signature="493:550" ph="{...}" />
+            <marker date="1652353910550" expanded="true" signature="606:845" ph="/* LeanTween.scale (fader, new Vector3 (1, 1, 1), 0); ... */" />
+            <marker date="1652353910550" expanded="true" signature="929:1239" ph="{...}" />
+            <marker date="1652353910550" expanded="true" signature="1137:1222" ph="{...}" />
+            <marker date="1652353910550" expanded="true" signature="1280:1856" ph="{...}" />
+            <marker date="1652353910550" expanded="true" signature="1496:1573" ph="{...}" />
+            <marker date="1652353910550" expanded="true" signature="1614:1846" ph="/* LeanTween.scale (fader, Vector3.zero, 0f); ... */" />
+            <marker date="1652353910550" expanded="true" signature="1905:2569" ph="{...}" />
+            <marker date="1652353910550" expanded="true" signature="2089:2213" ph="{...}" />
+            <marker date="1652353910550" expanded="true" signature="2254:2559" ph="/* LeanTween.scale (fader, Vector3.zero, 0f); ... */" />
+            <marker date="1652353910550" expanded="true" signature="2612:2663" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SplashScreen/Splash.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="25" column="69" selection-start-line="25" selection-start-column="69" selection-end-line="25" selection-end-column="69" />
+          <folding>
+            <marker date="1654778777831" expanded="true" signature="6:149" ph="..." />
+            <marker date="1654778777831" expanded="true" signature="186:2170" ph="{...}" />
+            <marker date="1654778777831" expanded="true" signature="351:429" ph="{...}" />
+            <marker date="1654778777831" expanded="true" signature="500:818" ph="{...}" />
+            <marker date="1654778777831" expanded="true" signature="706:808" ph="{...}" />
+            <marker date="1654778777831" expanded="true" signature="876:897" ph="{...}" />
+            <marker date="1654778777831" expanded="true" signature="969:1324" ph="{...}" />
+            <marker date="1654778777831" expanded="true" signature="1222:1307" ph="{...}" />
+            <marker date="1654778777831" expanded="true" signature="1398:2168" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../EuphoriaWolfProject/ar-live-auction/Assets/Scripts/GetStartedScripts/SliderAnim.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-216">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#0#243#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/OnBoarding/OnBoarding.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="63" column="82" selection-start-line="63" selection-start-column="82" selection-end-line="63" selection-end-column="82" />
+          <folding>
+            <marker date="1654784781928" expanded="false" signature="6:78" ph="..." />
+            <marker date="1654784781928" expanded="true" signature="119:1468" ph="{...}" />
+            <marker date="1654784781928" expanded="true" signature="338:384" ph="{...}" />
+            <marker date="1654784781928" expanded="true" signature="442:463" ph="{...}" />
+            <marker date="1654784781928" expanded="true" signature="493:801" ph="{...}" />
+            <marker date="1654784781928" expanded="true" signature="830:1251" ph="{...}" />
+            <marker date="1654784781928" expanded="true" signature="872:939" ph="{...}" />
+            <marker date="1654784781928" expanded="true" signature="1286:1464" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Auth/Auth.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="81" selection-start-line="81" selection-end-line="81" />
+          <folding>
+            <marker date="1654786026944" expanded="false" signature="6:78" ph="..." />
+            <marker date="1654786026944" expanded="true" signature="113:2262" ph="{...}" />
+            <marker date="1654786026944" expanded="true" signature="403:497" ph="{...}" />
+            <marker date="1654786026944" expanded="true" signature="555:576" ph="{...}" />
+            <marker date="1654786026944" expanded="true" signature="608:648" ph="{...}" />
+            <marker date="1654786026944" expanded="true" signature="683:1095" ph="{...}" />
+            <marker date="1654786026944" expanded="true" signature="1130:1619" ph="{...}" />
+            <marker date="1654786026944" expanded="true" signature="1190:1316" ph="/* var position = slider.transform.position; ... */" />
+            <marker date="1654786026944" expanded="true" signature="1655:1783" ph="{...}" />
+            <marker date="1654786026944" expanded="true" signature="1818:2069" ph="{...}" />
+            <marker date="1654786026944" expanded="true" signature="2108:2260" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Homepage/Homepage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <marker date="1654787337400" expanded="false" signature="6:78" ph="..." />
+            <marker date="1654787337400" expanded="true" signature="117:434" ph="{...}" />
+            <marker date="1654787337400" expanded="true" signature="189:210" ph="{...}" />
+            <marker date="1654787337400" expanded="true" signature="268:289" ph="{...}" />
+            <marker date="1654787337400" expanded="true" signature="326:432" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PreviewProduct/PreviewProduct.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="28" selection-end-column="4" />
+          <folding>
+            <marker date="1654790789025" expanded="false" signature="6:78" ph="..." />
+            <marker date="1654790789025" expanded="true" signature="123:573" ph="{...}" />
+            <marker date="1654790789025" expanded="true" signature="195:216" ph="{...}" />
+            <marker date="1654790789025" expanded="true" signature="274:295" ph="{...}" />
+            <marker date="1654790789025" expanded="true" signature="325:425" ph="{...}" />
+            <marker date="1654790789025" expanded="true" signature="458:556" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ARView/ScaleAndDrag/CSharpscaling.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding>
+            <marker date="1654871684637" expanded="true" signature="6:44" ph="..." />
+            <marker date="1654871684637" expanded="true" signature="88:1385" ph="{...}" />
+            <marker date="1654871684637" expanded="true" signature="230:1383" ph="{...}" />
+            <marker date="1654871684637" expanded="true" signature="317:1377" ph="{...}" />
+            <marker date="1654871684637" expanded="true" signature="541:1367" ph="{...}" />
+            <marker date="1654871684637" expanded="true" signature="694:909" ph="{...}" />
+            <marker date="1654871684637" expanded="true" signature="930:1353" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ARView/ScaleAndDrag/onClickForScaling.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <marker date="1654871878361" expanded="true" signature="6:44" ph="..." />
+            <marker date="1654871878361" expanded="true" signature="93:182" ph="{...}" />
+            <marker date="1654871878361" expanded="true" signature="118:180" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ARView/ScaleAndDrag/DragObject1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <marker date="1654872002192" expanded="true" signature="6:44" ph="..." />
+            <marker date="1654872002192" expanded="true" signature="87:616" ph="{...}" />
+            <marker date="1654872002192" expanded="true" signature="164:335" ph="{...}" />
+            <marker date="1654872002192" expanded="true" signature="360:614" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ARView/ScaleAndDrag/Rotate.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <marker date="1654872066898" expanded="true" signature="6:44" ph="..." />
+            <marker date="1654872066898" expanded="true" signature="82:202" ph="{...}" />
+            <marker date="1654872066898" expanded="true" signature="144:200" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ARDKExamples/Common/Helpers/AR/ARHitTester.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="393">
+          <caret line="134" column="3" lean-forward="true" selection-start-line="134" selection-start-column="3" selection-end-line="134" selection-end-column="3" />
+          <folding>
+            <marker date="1652835860000" expanded="true" signature="60:375" ph="..." />
+            <marker date="1652835860000" expanded="true" signature="415:3450" ph="{...}" />
+            <marker date="1652835860000" expanded="true" signature="489:737" ph="/// A sample class that can be added to a scene and takes user input in the form of a screen touch. ... " />
+            <marker date="1652835860000" expanded="true" signature="779:3448" ph="{...}" />
+            <marker date="1652835860000" expanded="true" signature="1497:1583" ph="{...}" />
+            <marker date="1652835860000" expanded="true" signature="1663:1762" ph="{...}" />
+            <marker date="1652835860000" expanded="true" signature="1836:1870" ph="{...}" />
+            <marker date="1652835860000" expanded="true" signature="1900:2033" ph="{...}" />
+            <marker date="1652835860000" expanded="true" signature="2066:2207" ph="{...}" />
+            <marker date="1652835860000" expanded="true" signature="2123:2170" ph="{...}" />
+            <marker date="1652835860000" expanded="true" signature="2234:2528" ph="{...}" />
+            <marker date="1652835860000" expanded="true" signature="2268:2300" ph="{...}" />
+            <marker date="1652835860000" expanded="true" signature="2350:2382" ph="{...}" />
+            <marker date="1652835860000" expanded="true" signature="2479:2522" ph="{...}" />
+            <marker date="1652835860000" expanded="true" signature="2570:3444" ph="{...}" />
+            <marker date="1652835860000" expanded="true" signature="2656:2688" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ARView/ARView.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="52" column="7" selection-start-line="52" selection-start-column="7" selection-end-line="52" selection-end-column="7" />
+          <folding>
+            <marker date="1654886641638" expanded="true" signature="6:319" ph="..." />
+            <marker date="1654886641638" expanded="true" signature="357:3368" ph="{...}" />
+            <marker date="1654886641638" expanded="true" signature="771:859" ph="{...}" />
+            <marker date="1654886641638" expanded="true" signature="948:1051" ph="{...}" />
+            <marker date="1654886641638" expanded="true" signature="1125:1161" ph="{...}" />
+            <marker date="1654886641638" expanded="true" signature="1191:1329" ph="{...}" />
+            <marker date="1654886641638" expanded="true" signature="1362:1515" ph="{...}" />
+            <marker date="1654886641638" expanded="true" signature="1421:1476" ph="{...}" />
+            <marker date="1654886641638" expanded="true" signature="1574:1973" ph="{...}" />
+            <marker date="1654886641638" expanded="true" signature="1610:1650" ph="{...}" />
+            <marker date="1654886641638" expanded="true" signature="1702:1742" ph="{...}" />
+            <marker date="1654886641638" expanded="true" signature="1843:1967" ph="{...}" />
+            <marker date="1654886641638" expanded="true" signature="1880:1943" ph="{...}" />
+            <marker date="1654886641638" expanded="true" signature="2016:3044" ph="{...}" />
+            <marker date="1654886641638" expanded="true" signature="2106:2146" ph="{...}" />
+            <marker date="1654886641638" expanded="true" signature="3087:3193" ph="{...}" />
+            <marker date="1654886641638" expanded="true" signature="3226:3366" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ARDK/Extensions/ARFeaturePointRenderer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <marker date="1652835861000" expanded="false" signature="60:228" ph="..." />
+            <marker date="1652835861000" expanded="true" signature="263:2820" ph="{...}" />
+            <marker date="1652835861000" expanded="true" signature="321:605" ph="/// A sample class that can be added to a scene to visual feature points found in each frame. ... " />
+            <marker date="1652835861000" expanded="true" signature="663:2818" ph="{...}" />
+            <marker date="1652835861000" expanded="true" signature="921:1075" ph="{...}" />
+            <marker date="1652835861000" expanded="true" signature="1105:1320" ph="{...}" />
+            <marker date="1652835861000" expanded="true" signature="1353:1472" ph="{...}" />
+            <marker date="1652835861000" expanded="true" signature="1544:1836" ph="{...}" />
+            <marker date="1652835861000" expanded="true" signature="1904:1938" ph="{...}" />
+            <marker date="1652835861000" expanded="true" signature="1993:2501" ph="{...}" />
+            <marker date="1652835861000" expanded="true" signature="2216:2340" ph="{...}" />
+            <marker date="1652835861000" expanded="true" signature="2381:2495" ph="{...}" />
+            <marker date="1652835861000" expanded="true" signature="2552:2814" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
