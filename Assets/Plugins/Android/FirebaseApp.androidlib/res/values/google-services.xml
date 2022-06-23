@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">135415692612</string>
+  <string name="google_storage_bucket" translatable="false">fern-designar.appspot.com</string>
+  <string name="project_id" translatable="false">fern-designar</string>
+  <string name="google_api_key" translatable="false">AIzaSyAuCU7QGYInmJzpINAMgJ8he2GVKAJ4heE</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAuCU7QGYInmJzpINAMgJ8he2GVKAJ4heE</string>
+  <string name="google_app_id" translatable="false">1:135415692612:android:f9917d9f55d0e56fb4eb11</string>
+  <string name="default_android_client_id" translatable="false">135415692612-2bmlksv87j0f8ilt6u8d8al27uaiur7d.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">135415692612-78tvr0o5018jbhmbm5m437fipkh8vkhl.apps.googleusercontent.com</string>
+</resources>

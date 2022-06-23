@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "135415692612",
+    "project_id": "fern-designar",
+    "storage_bucket": "fern-designar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135415692612:android:f9917d9f55d0e56fb4eb11",
+        "android_client_info": {
+          "package_name": "com.Euphoria.FernDesignAR"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "135415692612-2bmlksv87j0f8ilt6u8d8al27uaiur7d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.Euphoria.FernDesignAR",
+            "certificate_hash": "977e1daf8040e5e284f05475c5cca75692d303bb"
+          }
+        },
+        {
+          "client_id": "135415692612-78tvr0o5018jbhmbm5m437fipkh8vkhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuCU7QGYInmJzpINAMgJ8he2GVKAJ4heE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "135415692612-78tvr0o5018jbhmbm5m437fipkh8vkhl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "135415692612-nb3h6pi7m0c5u6sdilqn7dhccv2qk2gr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Euphoria.FernDesignAR"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

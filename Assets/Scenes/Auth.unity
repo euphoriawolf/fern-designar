@@ -4311,6 +4311,13 @@ MonoBehaviour:
   signInPage: {fileID: 1752211620}
   signUpPage: {fileID: 178985893}
   SignUpSuccessPanel: {fileID: 846530048}
+  emailSignIn: {fileID: 1002288519}
+  passwordSignIn: {fileID: 1866701861}
+  firstnameSignUp: {fileID: 2135002963}
+  lastnameSignUp: {fileID: 1897042923}
+  emailSignUp: {fileID: 859146665}
+  passwordSignUp: {fileID: 15019229}
+  comfirmpasswordSignUp: {fileID: 1971534834}
 --- !u!114 &647224143
 MonoBehaviour:
   m_ObjectHideFlags: 0
